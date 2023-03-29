@@ -1,0 +1,22 @@
+TREJO HERNANDEZ CARLOS 	                                             Curso de Git y GitHub
+Grupo: Li141
+Git: Git siendo una herramienta el cual trabaja con el sistema operativo directamente; el usa la consola de la misma aplicación. El cual Git tiene 3 estados:
+1° Working directory: el cual trabajará con los archivos.
+2° Sataging Area: Se podrán agregar archivos para guardado.
+3° Repository: Para guardar cambios de los anteriores 2.
+
+Existen comandos a usar:
+
+Git init: Crear orden de un proyecto nuevo o ya agregado.
+
+Git add: Para agregar trabajos los cuales se tendrán de trabajo directo.
+
+Git status: Realiza un seguimiento de que faceta está nuestro proyecto (si estamos trabajando directamente, o en staging área).
+Git commit: para pasar del Staging área a un repositorio.
+Git push: Se usa para subir a un repositorio por ejemplo a GitHub.
+Git pull: Para ver cambio de otros desarrolladores en caso de trabajar con un equipo de trabajo
+Git clone: para clonar el código del servidor a la computadora.
+Git checkout: para cambiar o descartar datos que se hicieron últimamente.
+Git diff: para ver los cambios o líneas agregadas e incluso las eliminadas.
+GitHub: De su principio es para poder interactuar y con otros desarrolladores hacer cambios junto a otros programadores o incluso apoyar a otros a través de esta plataforma web.
+Con ello también para subir códigos será enlazado a git la cual al crear el nuevo repositorio en github te mandara una localización del repositorio para subirlo desde git y en la misma ya al actualizar la página se subirá nuestro código.
